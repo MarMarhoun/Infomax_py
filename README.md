@@ -1,2 +1,1 @@
-# Infomax_py
-Blind Sources Separation by using INFOMAX algorithm with Python.
+# BSS by using INFOMAX algorithm with Python.
