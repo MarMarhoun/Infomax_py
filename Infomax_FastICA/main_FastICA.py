@@ -1,3 +1,6 @@
+# Simple implementation of the Infomax FastICA algorithm
+# Number of Sources == Number of Mixtures == 2
+
 from scipy.io import wavfile
 from scipy.io.wavfile import write
 
